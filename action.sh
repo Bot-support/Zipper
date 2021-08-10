@@ -1,3 +1,4 @@
+#
 git clone https://github.com/TANYA-OP/patriciamusic2.0 /root/PatriciaMusic2.0
 cp patriciamusic2.0/.env /root/patriciamusic2.0
 cd /root/patriciamusic2.0
