@@ -1,3 +1,4 @@
+#
 git clone https://github.com/bittusharma0/DaisyXMusic /root/daisyxmusic
 cp daisyxmusic/.env /root/innexia
 cd /root/innexia
