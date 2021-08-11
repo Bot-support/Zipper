@@ -1,3 +1,4 @@
+#
 git clone https://github.com/TANYA-OP/daisyxmusic /root/innexia
 cp daisyxmusic/.env /root/innexia
 cd /root/innexia
