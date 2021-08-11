@@ -1,3 +1,4 @@
+#
 git clone https://github.com/bittusharma0/innexiamusic /root/innexia
 cp innexiamusic/.env /root/innexia
 cd /root/innexia
